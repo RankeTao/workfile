@@ -76,3 +76,5 @@ new = path.decoding('gbk').encoding('utf-8')
 img= cv2.imread(r"C:/Users/t03492/Desktop/江西明冠_20190314/手机拍图/微信图片_20190315151427.jpg")
 print(img.shape)
 cv2.cvtColor(img, cv2.colorla)
+
+print("good")
